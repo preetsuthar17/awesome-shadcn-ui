@@ -24,6 +24,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/' tar
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| HextaUI | Build Stunning websites effortlessly. Modern, responsive, and customizable UI components for Next.js. Copy, adapt, and personalize them. | [Link](https://hextaui.com/) | 2025-05-14 |
 | 21st.dev | Open source npm for shadcn/ui components. Also: Dribble for design engineers. Install UI components via shadcn CLI, or publish your own. | [Link](https://21st.dev/) | 2024-12-06 |
 | 8bitcn.com  | A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.| [Link](https://www.8bitcn.com/) | 2025-04-12 |
 | aceternity-ui | Copy paste the most trending react components without having to worry about styling and animations. | [Link](https://ui.aceternity.com/) | 2024-12-06 |
